@@ -18,6 +18,7 @@ public class AppNotificationManager : MonoBehaviour
     private const string GAME_NOTIFICATION_CHANNEL_TITLE = "Get back to the game!";
     private const string GAME_NOTIFICATION_CHANNEL_DESCRIPTION = "Notification from my Game";
     private const int DISPLAY_NOTIFICATION_AFTER_DAYS = 3;
+
     // notification icons
     private string smallIconName = "icon_0";
     private string largeIconName = "icon_1";
