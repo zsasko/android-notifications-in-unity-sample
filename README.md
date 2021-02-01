@@ -2,7 +2,7 @@
 
 This project is sample application that demonstrates using Android Notification in Unity.
 
-![](https://cdn-images-1.medium.com/max/800/1*WcDgNHyaRvkPq3MyocAFWg.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*i_2yARFp4Uv9BkvzmRVULw.jpeg)
 
 Setup note: make sure that you have selected 'Android' Build Platform.
 
