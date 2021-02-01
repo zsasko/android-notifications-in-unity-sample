@@ -1,6 +1,6 @@
 # Android Notification In Unity Sample
 
-This project is sample application that demonstrates using Android Notification in Unity.
+This project is sample application that demonstrates implementation of Android Notifications in Unity.
 
 ![](https://cdn-images-1.medium.com/max/800/1*i_2yARFp4Uv9BkvzmRVULw.jpeg)
 
